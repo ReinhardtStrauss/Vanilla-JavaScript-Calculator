@@ -1,3 +1,6 @@
+//Original Code:  https://github.com/WebDevSimplified/Vanilla-JavaScript-Calculator
+//Reinhardt Strauss Fork 14 August 2024
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement
